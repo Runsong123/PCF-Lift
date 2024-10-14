@@ -7,7 +7,7 @@
 
 > Codes will be released soon.
 
-![image](https://github.com/yashbhalgat/Contrastive-Lift/assets/8559512/30f48101-548d-4d79-857f-b64b64087e66)
+![image](https://github.com/Runsong123/PCF-Lift/blob/main/assets/Overview.png)
 
 
 
