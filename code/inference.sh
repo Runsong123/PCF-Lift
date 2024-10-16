@@ -1,0 +1,1 @@
+python inference_test/MOS_covariance/covariance_001_clamp/bash_inference_training_view_official_v2_learned_covariance_v1.py --output_dir PCF_res --feature_dimension 7 --export_table_name PCF_res 
