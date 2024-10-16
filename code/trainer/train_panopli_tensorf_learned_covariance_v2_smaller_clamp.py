@@ -604,7 +604,7 @@ class TensoRFTrainer(pl.LightningModule):
                 break
 
 
-@hydra.main(config_path='../config', config_name='contrastive_lift_MOS_learned_covariance_v2_smaller_clamp', version_base='1.2')
+@hydra.main(config_path='../config', config_name='pcf_lift', version_base='1.2')
 def main(config):
     if config.template.dataset_class=="panopli":
         name = "PanopLi"

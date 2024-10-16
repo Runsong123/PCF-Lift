@@ -791,7 +791,7 @@ class TensoRFTrainer(pl.LightningModule):
                 break
 
 
-@hydra.main(config_path='../config', config_name='PCF_mos_multiframe_v1_single_batch', version_base='1.2')
+@hydra.main(config_path='../config', config_name='pcf_lift_cross', version_base='1.2')
 def main(config):
     if config.template.dataset_class=="panopli":
         name = "PanopLi"

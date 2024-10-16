@@ -3,10 +3,10 @@ defaults:
     - template: panopli_paper
 
 template:
-    dataset_class: multi_frame_mos # many object scenes
+    dataset_class: mos # many object scenes
     dataset_root: "data/large_corridor_500"
     # experiment: CONTRASTIVE_LIFT_learned_covariance_v2_no_regularization_on_covariance_smaller_clamp
-    experiment: CONTRASTIVE_LIFT_multi_view_single_batch
+    experiment: PCF_LIFT
 
 
     max_epoch: 9
