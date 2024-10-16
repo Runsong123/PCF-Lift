@@ -19,7 +19,7 @@ the instructions provided in [Panoptic-Lifting](https://github.com/nihalsid/pano
 
 
 
-we provide **pretrained checkpoints** for MOS dataset and you can download them from [here](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155183723_link_cuhk_edu_hk/Ee1-k1XP-1JHsDiQlfgHU1oBq_WQl8R7ZVBFRYImwm6ceA?e=VChO7M).
+we provide **pretrained checkpoints** for MOS dataset and you can download them from [here](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155183723_link_cuhk_edu_hk/EYVeG_sGhRVEtEoZoh9nj_kB6VwTBa22kqWCcEeD5BqsyA?e=9MlcYd).
 
 ## Inference and Evaluation.
 Download the pretrained checkpoints and place them to ```./code```. Then, run the following commands to evaluate the pretrained models:
