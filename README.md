@@ -33,7 +33,20 @@ cd code & bash train.sh
 ```
 
 # Citation
-> coming soon.
+
+# Citation
+If you find this work useful in your research, please cite our paper:
+```
+@inproceedings{zhu2025pcf,
+  title={PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion},
+  author={Zhu, Runsong and Qiu, Shi and Wu, Qianyi and Hui, Ka-Hei and Heng, Pheng-Ann and Fu, Chi-Wing},
+  booktitle={European Conference on Computer Vision},
+  pages={92--108},
+  year={2025},
+  organization={Springer}
+}
+```
+
 
 ## Thanks
 This code is based on [Contrastive Lift](https://github.com/yashbhalgat/Contrastive-Lift), [Panoptic-Lifting](https://github.com/nihalsid/panoptic-lifting) and [TensoRF](https://github.com/apchenstu/TensoRF) codebases. We thank the authors for releasing their code. 
