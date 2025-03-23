@@ -32,7 +32,6 @@ cd code & python inference_test/MOS_covariance/covariance_001_clamp/bash_inferen
 cd code & bash train.sh
 ```
 
-# Citation
 
 # Citation
 If you find this work useful in your research, please cite our paper:
